@@ -3,7 +3,7 @@ This Solidity program is a simple program that demonstrates contract making in t
 
 ## Discription
 This software is a simple contract built in Solidity, a programming language for creating smart contracts on the Ethereum blockchain. The contract contains a two functions mint and burn.Mint function uses addition assignment operators to increase the total supply and balance while burn function uses
-a conditional loop if in which substraction assignment opterator are are performed to deduct the value from total supply and balance. This program provides a simple and uncomplicated introduction to Solidity programming that can be used as a foundation for more sophisticated projects in the future.
+a conditional statement "if" in which substraction assignment operator is performed to deduct the value from total supply and balance. This program provides a simple and uncomplicated introduction to Solidity programming that can be used as a foundation for more sophisticated projects in the future.
 
 ## Getting Started
 
