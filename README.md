@@ -1,5 +1,5 @@
 # solidityProject
-This Solidity program is a simple program that demonstrates contract making the Solidity programming language. The goal of this program is to provide a starting point for individuals who are new to Solidity and wish to understand how it works.
+This Solidity program is a simple program that demonstrates contract making in the Solidity programming language. The goal of this program is to provide a starting point for individuals who are new to Solidity and wish to understand how it works.
 
 ## discription
 This software is a simple contract built in Solidity, a programming language for creating smart contracts on the Ethereum blockchain. The contract contains a two functions mint and burn.Mint function uses addition assignment operators to increase the total supply and balance while burn function uses
